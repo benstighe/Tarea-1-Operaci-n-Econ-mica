@@ -1,2 +1,2 @@
-# Tarea-1-Operaci-n-Econ-mica
+# Tarea-1-Operacion-Economica
 Operación Económica 
